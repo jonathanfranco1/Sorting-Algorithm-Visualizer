@@ -1,4 +1,4 @@
-sortingalgviz.netlify.app
+https://sortingalgviz.netlify.app
 
 ![](SortingVisualizer.png)
 
